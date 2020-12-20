@@ -6,6 +6,9 @@
 
 ## Design
 
+## Inspirations
+* Land page examples https://timetravel.pixelfika.com/
+
 ## Design Edu
 * https://uxmasterclass.design/
 
